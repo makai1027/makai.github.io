@@ -1,1 +1,0 @@
-import{_ as c,v as _,b as s}from"./framework.b66408a1.js";const e={},t={class:"custom-wrapper h-64"};function o(a,n){return _(),s("div",t)}const d=c(e,[["render",o],["__scopeId","data-v-1045c39c"]]);export{d as default};
